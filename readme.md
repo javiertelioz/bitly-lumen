@@ -6,7 +6,11 @@ Install:
 ======
 
   ```
-  "javiertelioz/bitlylumen": "dev"
+  "javiertelioz/bitlylumen": "dev-master"
+  ```
+  or
+  ```
+  sudo composer require javiertelioz/bitlylumen dev-maste
   ```
 
 ### Lumen:
