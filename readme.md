@@ -14,7 +14,7 @@ Install:
 After	 updating composer add the following lines to register provider in `bootstrap/app.php`
 
   ```
-  $app->register(\Barryvdh\DomPDF\ServiceProvider::class);
+  $app->register('Javiertelioz\BitlyLumen\BitlyLumenServiceProvider');
   ```
 
 ======

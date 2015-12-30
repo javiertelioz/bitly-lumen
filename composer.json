@@ -1,6 +1,6 @@
 {
     "name": "javiertelioz/bitlylumen",
-    "description": "A Bitly API Wrapper for Lumen and Laravel (v3 bit.ly) ",
+    "description": "A Bitly API Wrapper for Lumen and Laravel (v3 bit.ly)",
     "keywords": ["Laravel", "Lumen", "Short", "Url", "Bitly", "Bitly Lumen"],
     "license": "MIT",
     "authors": [
@@ -17,6 +17,5 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=5.4.0",
-        "illuminate/support": "5.0.x|5.1.x|5.2.x",
     },
 }
