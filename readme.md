@@ -5,6 +5,10 @@ A Bitly API Wrapper for Lumen and Laravel (supports OAuth endpoints). It should 
 Install:
 ======
 
+  ```
+  "javiertelioz/bitlylumen": "dev"
+  ```
+
 ### Lumen:
 
 After	 updating composer add the following lines to register provider in `bootstrap/app.php`
